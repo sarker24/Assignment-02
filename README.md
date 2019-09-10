@@ -1,10 +1,10 @@
-# Assignment-02
+#### Assignment-02
 
-Student calendar
-Created student calendar using prolog’s programming.
+## Student calendar
+   Created student calendar using prolog’s programming.
 
 
-Prerequisite:
+## Prerequisite:
 Download SWI_prolog … editir from prolog’s website.
 
 Loading program:
