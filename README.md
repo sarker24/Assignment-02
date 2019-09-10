@@ -5,7 +5,7 @@
 
 
 ## Prerequisite:
-Download SWI_prolog … editir from prolog’s website.
+Download SWI_prolog … editor from prolog’s website.
 
 Loading program:
 Load from File>consult>…./StudentCalender.
